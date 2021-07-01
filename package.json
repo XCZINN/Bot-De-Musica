@@ -1,0 +1,53 @@
+{
+  "//1": "ALL COPYRIGHT GO'S TO YassineHz.#2006",
+  "//2": "ALL COPYRIGHT GO'S TO YassineHz.#2006",
+  "//3": "ALL COPYRIGHT GO'S TO YassineHz.#2006",
+  "name": "Music-Bot-By-YassineHz.#2006",
+  "version": "1.0.0",
+  "description": "All Copyright Go's To YassineHz.#2006",
+  "main": "index.js",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "discord-player": "^3.2.1",
+    "discord.js": "^12.5.1",
+    "express": "^4.17.1",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-static": "^4.2.7",
+    "ffprobe-static": "^3.0.0",
+    "figlet": "^1.5.0",
+    "get-youtube-id": "^1.0.1",
+    "jimp": "^0.16.1",
+    "moment": "^2.29.1",
+    "ms": "^2.1.3",
+    "simple-youtube-api": "^5.2.1",
+    "table": "^6.0.7",
+    "youtube-info": "^1.3.2",
+    "ytdl-core": "^4.4.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://repl.it/@salimlengliz/Music-Bot-1-1"
+  },
+  "debug": {
+    "url": "https://repl.it/@salimlengliz/Music-Bot-1-1",
+    "packages": "https://repl.it/@salimlengliz/Music-Bot-1-1"
+  },
+  "keywords": [
+    "Yassinehz",
+    "Yassine",
+    "Repl",
+    "Youtube"
+  ],
+  "author": [
+    "YassineHz",
+    "YassineHz"
+  ],
+  "license": "ISC"
+}
